@@ -1,5 +1,5 @@
-**my_person.yml**
 ```yaml
+$ cat my_person.yml
 ---
 name: Paulo Caldas
 role: Backend Developer
